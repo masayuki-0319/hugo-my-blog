@@ -126,11 +126,11 @@ commento = false
   clientSecret = ""       # Your client secret
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = ""
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "https://twitter.com/MooMoo_Farm"
+  github = "https://github.com/masayuki-0319"
   stack-overflow = ""
   instagram = ""
   google-plus = ""
