@@ -18,24 +18,7 @@ header:
     align: center
     fontSize: 44
     fontColor: yellow
-    
-  - type: text
-    height: 200
-    paddingX: 50
-    paddingY: 0
-    align: center
-    title:
-      - HUGO
-    subtitle:
-      - The world’s fastest framework for building websites
-    titleColor: 
-    titleShadow: true
-    titleFontSize: 44
-    subtitleColor: 
-    subtitleCursive: true
-    subtitleFontSize: 18
-    spaceBetweenTitleSubtitle: 16
-  
+
   - type: img
     imageSrc: images/header/background.jpg
     imageSize: cover
