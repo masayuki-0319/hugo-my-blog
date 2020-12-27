@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>memo on Home</title>
-    <link>http://example.org/tags/memo/</link>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/tags/memo/</link>
     <description>Recent content in memo on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/memo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/tags/memo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,11 +22,11 @@
       
       <item>
         <title>DX の導入学習</title>
-        <link>http://example.org/posts/initial_lerning_degital_transformation/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/initial_lerning_degital_transformation/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/initial_lerning_degital_transformation/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/initial_lerning_degital_transformation/</guid>
         <description>概要 参考 URL DXレポート ～ITシステム「2025年の崖」克服とDXの本格的な展開～（METI/経済産業省） DX の考え方 データとデジタル技術を活用</description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>GAS の導入学習</title>
-        <link>http://example.org/posts/study-google-apps-script/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/study-google-apps-script/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/study-google-apps-script/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/study-google-apps-script/</guid>
         <description>概要 下記 Udemy のコースを元に学習した。 javascript に知見がある場合、言語仕様を飛ばしつつ、短時間で GAS の仕組みを概観できる。 プログラミング未経験者でも、言語</description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
@@ -98,11 +98,11 @@
       
       <item>
         <title>Hugo の初期設定</title>
-        <link>http://example.org/posts/hugo-initial-settings/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-initial-settings/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/hugo-initial-settings/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-initial-settings/</guid>
         <description>Hugo インストール Install Hugo | Hugo 使いたいテーマを選択 Wordpress のテーマ選択と同じ趣旨。 気に入ったテーマを探す。 Complete List | Hugo Themes 選択テーマの指示通りにプロジェクトを生</description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>Hugoで記事作成の環境を整える</title>
-        <link>http://example.org/posts/hugo-settings-before-writting/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-settings-before-writting/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/hugo-settings-before-writting/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-settings-before-writting/</guid>
         <description>概要 Hugo は、以下のコマンドで記事のテンプレートを記事ディレクトリに生成する。 テンプレートファイルは、./archetypes/post.md に</description>
         
         <dc:creator>Masayuki Onishi</dc:creator>

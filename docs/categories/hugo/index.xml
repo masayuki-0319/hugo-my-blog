@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hugo on Home</title>
-    <link>http://example.org/categories/hugo/</link>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/categories/hugo/</link>
     <description>Recent content in hugo on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,11 +22,11 @@
       
       <item>
         <title>Hugo の初期設定</title>
-        <link>http://example.org/posts/hugo-initial-settings/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-initial-settings/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/hugo-initial-settings/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-initial-settings/</guid>
         <description>Hugo インストール Install Hugo | Hugo 使いたいテーマを選択 Wordpress のテーマ選択と同じ趣旨。 気に入ったテーマを探す。 Complete List | Hugo Themes 選択テーマの指示通りにプロジェクトを生</description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
@@ -56,11 +56,11 @@
       
       <item>
         <title>Hugoで記事作成の環境を整える</title>
-        <link>http://example.org/posts/hugo-settings-before-writting/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-settings-before-writting/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 26 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/posts/hugo-settings-before-writting/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/hugo-settings-before-writting/</guid>
         <description>概要 Hugo は、以下のコマンドで記事のテンプレートを記事ディレクトリに生成する。 テンプレートファイルは、./archetypes/post.md に</description>
         
         <dc:creator>Masayuki Onishi</dc:creator>

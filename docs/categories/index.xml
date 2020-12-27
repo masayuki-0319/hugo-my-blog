@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Home</title>
-    <link>http://example.org/categories/</link>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/categories/</link>
     <description>Recent content in Categories on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 26 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -22,11 +22,11 @@
       
       <item>
         <title>dx</title>
-        <link>http://example.org/categories/dx/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/dx/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         
-        <guid>http://example.org/categories/dx/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/dx/</guid>
         <description></description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>google_apps_script</title>
-        <link>http://example.org/categories/google_apps_script/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/google_apps_script/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         
-        <guid>http://example.org/categories/google_apps_script/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/google_apps_script/</guid>
         <description></description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>hugo</title>
-        <link>http://example.org/categories/hugo/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/hugo/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         
-        <guid>http://example.org/categories/hugo/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/hugo/</guid>
         <description></description>
         
         <dc:creator>Masayuki Onishi</dc:creator>

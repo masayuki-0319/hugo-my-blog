@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Home</title>
-    <link>http://example.org/tags/index/</link>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/tags/index/</link>
     <description>Recent content in index on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -21,11 +21,11 @@
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/posts/</link>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/</link>
         <pubDate>Sat, 26 Dec 2020 00:00:00 +0000</pubDate>
         
         
-        <guid>http://example.org/posts/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

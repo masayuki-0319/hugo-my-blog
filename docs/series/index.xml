@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Home</title>
-    <link>http://example.org/series/</link>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/series/</link>
     <description>Recent content in Series on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     

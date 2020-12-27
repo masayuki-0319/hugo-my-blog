@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Home</title>
-    <link>http://example.org/archive/</link>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/archive/</link>
     <description>Recent content in Archive on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     
