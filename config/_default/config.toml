@@ -1,6 +1,7 @@
 baseURL = "http://example.org"
 title = ""
 theme = "zzo"
+publishDir = "docs"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
