@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>memo on Home</title>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/categories/memo/</link>
+    <description>Recent content in memo on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 30 Dec 2020 18:12:42 +0900</lastBuildDate>
+    
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/categories/memo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Udemy: 【初心者向け】2時間でわかる！確実に商談を前進させる営業トーク50選</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/memo/initial-markething/</link>
+        <pubDate>Wed, 30 Dec 2020 18:12:42 +0900</pubDate>
+        
+        <atom:modified>Wed, 30 Dec 2020 18:12:42 +0900</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/memo/initial-markething/</guid>
+        <description>概要 【初心者向け】2時間でわかる！確実に商談を前進させる営業トーク50選 成果を出すための3つのポイント Yes を急ぐより、「No を言わせない」 議題</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>udemy</category>
+            
+          
+        
+        
+          
+            
+              <category>memo</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Udemy: 現役女子アナ直伝！コミュニケーション研修</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/memo/initial-communicate/</link>
+        <pubDate>Wed, 30 Dec 2020 16:49:23 +0900</pubDate>
+        
+        <atom:modified>Wed, 30 Dec 2020 16:49:23 +0900</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/memo/initial-communicate/</guid>
+        <description>概要 参考 URL 現役女子アナ直伝！コミュニケーション研修 聴き方 身体の仕草 ミラーリングにより、親近感を持つ効果 相手のしぐさや行動を模倣する 多すぎると</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>udemy</category>
+            
+          
+        
+        
+          
+            
+              <category>memo</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
