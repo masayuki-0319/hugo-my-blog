@@ -1,7 +1,7 @@
 ---
-title: DX の導入学習
+title: "Udemy: 今日から始めるデジタルトランスフォーメーション！テクノロジーの仕組みからデータ活用基盤の作り方まで"
 date: 2020-12-26
-description: Udemy で GoogleAppsScript に触れてみた。
+description: ""
 draft: false
 hideToc: false
 enableToc: true
@@ -20,6 +20,7 @@ categories:
 ## 概要
 
 - 参考 URL
+  - [今日から始めるデジタルトランスフォーメーション！テクノロジーの仕組みからデータ活用基盤のつくりかたまで \| Udemy](https://www.udemy.com/course/bjminjsw/)
   - [DXレポート ～ITシステム「2025年の崖」克服とDXの本格的な展開～（METI/経済産業省）](https://www.meti.go.jp/shingikai/mono_info_service/digital_transformation/20180907_report.html)
 
 ## DX の考え方

@@ -8,3 +8,8 @@
   name = "Archive"
   url = "archive"
   weight = 2
+[[main]]
+  identifier = "memo"
+  name = "Memo"
+  url = "memo"
+  weight = 3

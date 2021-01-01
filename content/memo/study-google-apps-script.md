@@ -1,5 +1,5 @@
 ---
-title: GAS の導入学習
+title: Udmey:【業務自動化をゼロからマスター】Google Apps Scriptの仕事効率化・自動化をプログラミングで実現
 date: 2020-12-26
 description: Udemy で GoogleAppsScript に触れてみた。
 draft: false
