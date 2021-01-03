@@ -88,6 +88,176 @@
         
       </item>
       
+      <item>
+        <title>Apacheの初期設定</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207_apache_init/</link>
+        <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 07 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207_apache_init/</guid>
+        <description>概要 Web サーバの初期設定 ( Ubuntu × Apache ) インストール 1 $ sudo apt install apache2 セキュリティ対策 エラーにサーバ情報を隠蔽 エラー画面において、デフォルトでは、フッター</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>web_server</category>
+            
+          
+            
+              <category>apache</category>
+            
+          
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>rsyncでサーバ壊滅</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-rsync_delete/</link>
+        <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 07 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-rsync_delete/</guid>
+        <description>概要 rsync &amp;ndash;delete をシェルスクリプトに仕込んでサーバ壊滅した。 事象 bashCMS2 中の ./deploy コマンド実行で、サーバを吹っ飛ばした。 原因は、コード入力中に不可視文字が入り</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>rsync</category>
+            
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+          
+            
+              <category>error</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>ドメインの初期設定とHTTPS化</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-dmain_init/</link>
+        <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 07 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-dmain_init/</guid>
+        <description>概要 ドメイン初期設定と HTTPS 化 ( さくらの VPS × Let&amp;rsquo;s Encrypt ) サーバの IP を確認 さくらの VPS は、デフォルトでドメインが割り当てられている。 そのため、デフォルト値</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>domain</category>
+            
+          
+            
+              <category>https</category>
+            
+          
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>ssh 接続時にエラー発生`REMOTE HOST IDENTIFICATION HAS CHANGED!`</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20201201-ssh_error/</link>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 01 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20201201-ssh_error/</guid>
+        <description>概要 ssh 接続時にエラー発生REMOTE HOST IDENTIFICATION HAS CHANGED! エラー内容 状況 サーバが吹っ飛んだため、OS再インストールした サーバ再起動後、ssh 接続を試みた 以</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>ssh</category>
+            
+          
+            
+              <category>error</category>
+            
+          
+        
+        
+          
+            
+              <category>error</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>ubuntuの初期設定</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20201201-ubuntu_init/</link>
+        <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 01 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20201201-ubuntu_init/</guid>
+        <description>概要 Ubuntu を使用したサーバ構築の手順。 OS セットアップ Set up users and passwords Question Answer Full name for the new user Onishi Masayuki Username for your account onishi Choose a password for the new user ${パスワード入力} Re-enter password to verify ${パスワ</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+            
+              <category>ubuntu</category>
+            
+          
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+      </item>
+      
 
     
   </channel>

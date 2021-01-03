@@ -88,6 +88,86 @@
   </url>
   
   <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/apache/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207_apache_init/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/domain/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/error/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/https/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/linux/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/linux/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/rsync/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-rsync_delete/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/web_server/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-dmain_init/</loc>
+    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/error/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/ssh/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/20201201-ssh_error/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/ubuntu/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/20201201-ubuntu_init/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://masayuki-0319.github.io/hugo-my-blog/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>

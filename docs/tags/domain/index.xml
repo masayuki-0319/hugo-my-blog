@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>domain on Home</title>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/tags/domain/</link>
+    <description>Recent content in domain on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/tags/domain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>ドメインの初期設定とHTTPS化</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-dmain_init/</link>
+        <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 07 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207-dmain_init/</guid>
+        <description>概要 ドメイン初期設定と HTTPS 化 ( さくらの VPS × Let&amp;rsquo;s Encrypt ) サーバの IP を確認 さくらの VPS は、デフォルトでドメインが割り当てられている。 そのため、デフォルト値</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>domain</category>
+            
+          
+            
+              <category>https</category>
+            
+          
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

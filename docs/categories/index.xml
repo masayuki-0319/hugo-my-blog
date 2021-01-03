@@ -92,6 +92,42 @@
         
       </item>
       
+      <item>
+        <title>error</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/error/</link>
+        <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/error/</guid>
+        <description></description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>linux</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/linux/</link>
+        <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
 
     
   </channel>

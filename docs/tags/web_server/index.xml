@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>web_server on Home</title>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/tags/web_server/</link>
+    <description>Recent content in web_server on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/tags/web_server/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Apacheの初期設定</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207_apache_init/</link>
+        <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 07 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20201207_apache_init/</guid>
+        <description>概要 Web サーバの初期設定 ( Ubuntu × Apache ) インストール 1 $ sudo apt install apache2 セキュリティ対策 エラーにサーバ情報を隠蔽 エラー画面において、デフォルトでは、フッター</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>web_server</category>
+            
+          
+            
+              <category>apache</category>
+            
+          
+        
+        
+          
+            
+              <category>linux</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
