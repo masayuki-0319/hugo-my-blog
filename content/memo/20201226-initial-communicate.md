@@ -18,7 +18,7 @@ categories:
 ## 概要
 
 - 参考 URL
-    - [現役女子アナ直伝！コミュニケーション研修](https://jpufbtest.udemy.com/course/talknavi_listen/learn/lecture/11108848#overview)
+    - [現役女子アナ直伝！コミュニケーション研修](https://www.udemy.com/course/talknavi_listen)
 
 ## 聴き方
 

@@ -17,7 +17,7 @@ categories:
 
 ## 概要
 
-- [【初心者向け】2時間でわかる！確実に商談を前進させる営業トーク50選](https://udemy.com/course/sales_talk_50/)
+- [【初心者向け】2時間でわかる！確実に商談を前進させる営業トーク50選](https://www.udemy.com/course/sales_talk_50/)
 
 ## 成果を出すための3つのポイント
 
