@@ -2,7 +2,6 @@
 
 # 初期設定
 cd `dirname $0`
-set -e
 
 # 引数チェック
 content_type=$1
