@@ -17,10 +17,10 @@ categories:
 
 テーブルにレンジパーティションを貼る時、終端まで定義しないと、最後のレンジを超えた時に insert できなくてエラー発生する。
 
-そのため、「キャッチオール」と呼ばれる終端を定義すること。
+そのため、「キャッチオール」を定義して、パーティションの終端を用意すること。
 
 ```sql
-PARTITION ${レンジ名(pmax が多い様子)} VALUES LESS THAN MAXVALUE
+PARTITION pmax VALUES LESS THAN MAXVALUE
 ```
 
 - 参考URL
