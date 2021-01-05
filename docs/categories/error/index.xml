@@ -12,13 +12,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 15:49:48 +0900</lastBuildDate>
     
         <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/categories/error/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>ERROR: Table has no partition for value from ...</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20210105-mysql-partition-memo/</link>
+        <pubDate>Tue, 05 Jan 2021 15:49:48 +0900</pubDate>
+        
+        <atom:modified>Tue, 05 Jan 2021 15:49:48 +0900</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20210105-mysql-partition-memo/</guid>
+        <description>テーブルにレンジパーティションを貼る時、終端まで定義しないと、最後のレンジを超えた時に insert できなくてエラー発生する。 そのため、「キャッチオール</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>mysql</category>
+            
+          
+        
+        
+          
+            
+              <category>error</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>rsyncでサーバ壊滅</title>

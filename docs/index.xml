@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 30 Dec 2020 18:12:42 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 15:49:48 +0900</lastBuildDate>
     
         <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,6 +32,74 @@
         
       
 
+      
+      <item>
+        <title>ERROR: Table has no partition for value from ...</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/posts/20210105-mysql-partition-memo/</link>
+        <pubDate>Tue, 05 Jan 2021 15:49:48 +0900</pubDate>
+        
+        <atom:modified>Tue, 05 Jan 2021 15:49:48 +0900</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/posts/20210105-mysql-partition-memo/</guid>
+        <description>テーブルにレンジパーティションを貼る時、終端まで定義しないと、最後のレンジを超えた時に insert できなくてエラー発生する。 そのため、「キャッチオール</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>mysql</category>
+            
+          
+        
+        
+          
+            
+              <category>error</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Udemy:【超実践】すぐに使えるデザイン思考！〜基本をおさえ、日常にイノベーションを起こす38個の習慣〜</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/memo/20210105-initial-design-learning/</link>
+        <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 05 Jan 2021 00:00:00 +0000</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/memo/20210105-initial-design-learning/</guid>
+        <description>【超実践】すぐに使えるデザイン思考！〜基本をおさえ、日常にイノベーションを起こす38個の習慣〜 | Udemy デザイン思考の基礎 ３つのプロセスを素早く回</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>study</category>
+            
+          
+            
+              <category>memo</category>
+            
+          
+            
+              <category>udemy</category>
+            
+          
+        
+        
+          
+            
+              <category>デザイン思考</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Udemy: 【初心者向け】2時間でわかる！確実に商談を前進させる営業トーク50選</title>

@@ -4,26 +4,66 @@
   
   <url>
     <loc>https://masayuki-0319.github.io/hugo-my-blog/</loc>
-    <lastmod>2020-12-30T18:12:42+09:00</lastmod>
+    <lastmod>2021-01-05T15:49:48+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/</loc>
-    <lastmod>2020-12-30T18:12:42+09:00</lastmod>
+    <lastmod>2021-01-05T15:49:48+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/memo/</loc>
-    <lastmod>2020-12-30T18:12:42+09:00</lastmod>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/error/</loc>
+    <lastmod>2021-01-05T15:49:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/20210105-mysql-partition-memo/</loc>
+    <lastmod>2021-01-05T15:49:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/mysql/</loc>
+    <lastmod>2021-01-05T15:49:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/</loc>
+    <lastmod>2021-01-05T15:49:48+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/</loc>
-    <lastmod>2020-12-30T18:12:42+09:00</lastmod>
+    <lastmod>2021-01-05T15:49:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/memo/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/study/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/udemy/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/memo/20210105-initial-design-learning/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E6%80%9D%E8%80%83/</loc>
+    <lastmod>2021-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/memo/</loc>
     <lastmod>2020-12-30T18:12:42+09:00</lastmod>
   </url>
   
@@ -63,21 +103,6 @@
   </url>
   
   <url>
-    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/memo/</loc>
-    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masayuki-0319.github.io/hugo-my-blog/posts/</loc>
-    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/study/</loc>
-    <lastmod>2020-12-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://masayuki-0319.github.io/hugo-my-blog/memo/20201226-initial_lerning_degital_transformation/</loc>
     <lastmod>2020-12-26T00:00:00+00:00</lastmod>
   </url>
@@ -99,11 +124,6 @@
   
   <url>
     <loc>https://masayuki-0319.github.io/hugo-my-blog/tags/domain/</loc>
-    <lastmod>2020-12-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://masayuki-0319.github.io/hugo-my-blog/categories/error/</loc>
     <lastmod>2020-12-07T00:00:00+00:00</lastmod>
   </url>
   
