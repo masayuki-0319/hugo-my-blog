@@ -1715,13 +1715,13 @@ if (!doNotTrack) {
     <article class="single__contents" data-dir="ltr" data-ani="false">
       
       <p>テーブルにレンジパーティションを貼る時、終端まで定義しないと、最後のレンジを超えた時に insert できなくてエラー発生する。</p>
-<p>そのため、「キャッチオール」と呼ばれる終端を定義すること。</p>
+<p>そのため、「キャッチオール」を定義して、パーティションの終端を用意すること。</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre class="chroma"><code><span class="lnt">1
 </span></code></pre></td>
 <td class="lntd">
-<pre class="chroma"><code class="language-sql" data-lang="sql"><span class="n">PARTITION</span> <span class="err">${レンジ名</span><span class="p">(</span><span class="n">pmax</span> <span class="err">が多い様子</span><span class="p">)</span><span class="err">}</span> <span class="k">VALUES</span> <span class="k">LESS</span> <span class="k">THAN</span> <span class="k">MAXVALUE</span>
+<pre class="chroma"><code class="language-sql" data-lang="sql"><span class="n">PARTITION</span> <span class="n">pmax</span> <span class="k">VALUES</span> <span class="k">LESS</span> <span class="k">THAN</span> <span class="k">MAXVALUE</span>
 </code></pre></td></tr></table>
 </div>
 </div><ul>
