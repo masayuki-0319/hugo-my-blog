@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>product_management on Home</title>
+    <link>https://masayuki-0319.github.io/hugo-my-blog/categories/product_management/</link>
+    <description>Recent content in product_management on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 07 Jan 2021 23:06:40 +0900</lastBuildDate>
+    
+        <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/categories/product_management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Udemy: プロダクトマネジメント入門講座：作るなら最初から世界を目指せ！シリコンバレー流Product Management</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/memo/20210107-initial-product-manager/</link>
+        <pubDate>Thu, 07 Jan 2021 23:06:40 +0900</pubDate>
+        
+        <atom:modified>Thu, 07 Jan 2021 23:06:40 +0900</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/memo/20210107-initial-product-manager/</guid>
+        <description>プロダクトマネジメント入門講座：作るなら最初から世界を目指せ！シリコンバレー流Product Management | Udemy PM の仕事とは プロダクトビジョンの作成 ProductVision とは</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>study</category>
+            
+          
+            
+              <category>memo</category>
+            
+          
+            
+              <category>udemy</category>
+            
+          
+        
+        
+          
+            
+              <category>product_management</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
