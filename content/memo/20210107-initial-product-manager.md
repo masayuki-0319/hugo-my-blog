@@ -1,5 +1,5 @@
 ---
-title: Udemy: プロダクトマネジメント入門講座：作るなら最初から世界を目指せ！シリコンバレー流Product Management
+title: "Udemy: プロダクトマネジメント入門講座：作るなら最初から世界を目指せ！シリコンバレー流Product Management"
 date: 2021-01-07T23:06:40+09:00
 description: プロダクトマネジメントはなんぞや
 draft: false
