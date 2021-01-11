@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>メモ置き場 on Home</title>
+    <title>Memos on Home</title>
     <link>https://masayuki-0319.github.io/hugo-my-blog/memo/</link>
-    <description>Recent content in メモ置き場 on Home</description>
+    <description>Recent content in Memos on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
@@ -19,6 +19,40 @@
     
     
 
+      
+      <item>
+        <title>Udemy: プロダクトマネジメント実践講座: シリコンバレーの現役プロダクトマネージャーが伝授する、伝わるプロダクトアイデアの書き方</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/memo/20210108-create-product-idea/</link>
+        <pubDate>Fri, 08 Jan 2021 19:26:36 +0900</pubDate>
+        
+        <atom:modified>Fri, 08 Jan 2021 19:26:36 +0900</atom:modified>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/memo/20210108-create-product-idea/</guid>
+        <description>プロダクトマネジメント実践講座: シリコンバレーの現役プロダクトマネージャーが伝授する、伝わるプロダクトアイデアの書き方 | Udemy 基本知識 PRD とは？ プ</description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>udemy</category>
+            
+          
+            
+              <category>product_idea</category>
+            
+          
+        
+        
+          
+            
+              <category>product_management</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Udemy: プロダクトマネジメント入門講座：作るなら最初から世界を目指せ！シリコンバレー流Product Management</title>

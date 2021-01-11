@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 08 Jan 2021 11:33:28 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 19:26:36 +0900</lastBuildDate>
     
         <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,12 +21,12 @@
 
       
       <item>
-        <title>システム障害</title>
-        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3/</link>
-        <pubDate>Fri, 08 Jan 2021 11:33:28 +0900</pubDate>
+        <title>product_management</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/product_management/</link>
+        <pubDate>Fri, 08 Jan 2021 19:26:36 +0900</pubDate>
         
         
-        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/product_management/</guid>
         <description></description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
@@ -39,12 +39,12 @@
       </item>
       
       <item>
-        <title>product_management</title>
-        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/product_management/</link>
-        <pubDate>Thu, 07 Jan 2021 23:06:40 +0900</pubDate>
+        <title>システム障害</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/categories/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3/</link>
+        <pubDate>Fri, 08 Jan 2021 11:33:28 +0900</pubDate>
         
         
-        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/product_management/</guid>
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/categories/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E9%9A%9C%E5%AE%B3/</guid>
         <description></description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
