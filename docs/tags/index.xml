@@ -12,13 +12,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 08 Jan 2021 19:26:36 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 22:30:20 +0900</lastBuildDate>
     
         <atom:link href="https://masayuki-0319.github.io/hugo-my-blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>memo</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/tags/memo/</link>
+        <pubDate>Tue, 02 Feb 2021 22:30:20 +0900</pubDate>
+        
+        
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/tags/memo/</guid>
+        <description></description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>study</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/tags/study/</link>
+        <pubDate>Tue, 02 Feb 2021 22:30:20 +0900</pubDate>
+        
+        
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/tags/study/</guid>
+        <description></description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>udemy</title>
+        <link>https://masayuki-0319.github.io/hugo-my-blog/tags/udemy/</link>
+        <pubDate>Tue, 02 Feb 2021 22:30:20 +0900</pubDate>
+        
+        
+        <guid>https://masayuki-0319.github.io/hugo-my-blog/tags/udemy/</guid>
+        <description></description>
+        
+        <dc:creator>Masayuki Onishi</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>product_idea</title>
@@ -39,66 +93,12 @@
       </item>
       
       <item>
-        <title>udemy</title>
-        <link>https://masayuki-0319.github.io/hugo-my-blog/tags/udemy/</link>
-        <pubDate>Fri, 08 Jan 2021 19:26:36 +0900</pubDate>
-        
-        
-        <guid>https://masayuki-0319.github.io/hugo-my-blog/tags/udemy/</guid>
-        <description></description>
-        
-        <dc:creator>Masayuki Onishi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>対応手順</title>
         <link>https://masayuki-0319.github.io/hugo-my-blog/tags/%E5%AF%BE%E5%BF%9C%E6%89%8B%E9%A0%86/</link>
         <pubDate>Fri, 08 Jan 2021 11:33:28 +0900</pubDate>
         
         
         <guid>https://masayuki-0319.github.io/hugo-my-blog/tags/%E5%AF%BE%E5%BF%9C%E6%89%8B%E9%A0%86/</guid>
-        <description></description>
-        
-        <dc:creator>Masayuki Onishi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>memo</title>
-        <link>https://masayuki-0319.github.io/hugo-my-blog/tags/memo/</link>
-        <pubDate>Thu, 07 Jan 2021 23:06:40 +0900</pubDate>
-        
-        
-        <guid>https://masayuki-0319.github.io/hugo-my-blog/tags/memo/</guid>
-        <description></description>
-        
-        <dc:creator>Masayuki Onishi</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>study</title>
-        <link>https://masayuki-0319.github.io/hugo-my-blog/tags/study/</link>
-        <pubDate>Thu, 07 Jan 2021 23:06:40 +0900</pubDate>
-        
-        
-        <guid>https://masayuki-0319.github.io/hugo-my-blog/tags/study/</guid>
         <description></description>
         
         <dc:creator>Masayuki Onishi</dc:creator>
